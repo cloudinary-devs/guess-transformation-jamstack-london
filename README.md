@@ -1,27 +1,28 @@
-# Transformation Challenge
+# Cloudinary's Guess the Transformation Challenge: JAMstackConf London 2019
 
-This challenge involves guessing a Cloudinary transformation URL that produces
-  a given target image from one (or more) given source image(s).
+![](.gitbook/assets/jamconf-image-london.png)
 
-## Source Images:
+### This challenge involves guessing a Cloudinary transformation URL that produces a given target image from one \(or more\) given source image\(s\).
 
-#### Source image \#1: [https://res.cloudinary.com/demo/image/upload/family\_bench.jpg](https://res.cloudinary.com/demo/image/upload/family_bench.jpg)
+##                                                 Source Images:
 
-![Family Bench](.gitbook/assets/family_bench.jpg)
+#### Source image \#1: [**https://res.cloudinary.com/demo/image/upload/dog2.jpg**](https://res.cloudinary.com/demo/image/upload/dog2.jpg)\*\*\*\*
 
-#### Source image \#2: [https://res.cloudinary.com/demo/image/upload/lady.jpg](https://res.cloudinary.com/demo/image/upload/lady.jpg)
+![Dog](.gitbook/assets/dog2.jpg)
 
-![Lady](.gitbook/assets/lady.jpg)
 
-#### Source image \#3: [https://res.cloudinary.com/demo/image/upload/logo.jpg](https://res.cloudinary.com/demo/image/upload/logo.jpg)
 
-![Logo](.gitbook/assets/logo.jpg)
+**Source image \#2:** [**https://res.cloudinary.com/demo/image/upload/heart-eyes-emoji.png**](https://res.cloudinary.com/demo/image/upload/heart-eyes-emoji.png)\*\*\*\*
 
-## Warm-Up Example:
+![Heart Eyes Emoji](.gitbook/assets/heart-eyes-emoji.png)
 
-### [https://res.cloudinary.com/demo/image/upload/c\_crop,g\_faces,r\_25,bo\_15px\_solid\_green,w\_600/l\_logo,w\_100,h\_100,c\_thumb,r\_max,g\_face/fl\_layer\_apply,g\_south\_west,x\_20,y\_20/l\_lady,w\_150,h\_150,c\_thumb,r\_max,bo\_5px\_solid\_blue/fl\_layer\_apply,g\_north\_east,x\_20,y\_20/family\_bench.jpg](https://res.cloudinary.com/demo/image/upload/c_crop,g_faces,r_25,bo_15px_solid_green,w_600/l_logo,w_100,h_100,c_thumb,r_max,g_face/fl_layer_apply,g_south_west,x_20,y_20/l_lady,w_150,h_150,c_thumb,r_max,bo_5px_solid_blue/fl_layer_apply,g_north_east,x_20,y_20/family_bench.jpg)
+##                                              Warm-Up Example:
 
-![Target Image \(example\)](.gitbook/assets/composite-one%20%282%29.jpg)
+### [https://res.cloudinary.com/demo/image/upload/w\_900,h\_600/l\_heart-eyes-emoji,g\_north\_west,w\_200,h\_200/l\_text:Arial\_150\_bold\_yellow:Puppy%20Love!,g\_south,co\_orange/dog2.jpg](https://res.cloudinary.com/demo/image/upload/w_900,h_600/l_heart-eyes-emoji,g_north_west,w_200,h_200/l_text:Arial_150_bold_yellow:Puppy%20Love!,g_south,co_orange/dog2.jpg)
+
+![](.gitbook/assets/puppy-love.jpg)
+
+![Target Image \(example\)](https://github.com/cloudinary-devs/guess-transformation-jamstack-london/tree/aea496103cbf1afa14c1bbff1d8ad25e76632bac/.gitbook/assets/composite-one%20%282%29.jpg)
 
 ### Image Transformations Docs:
 

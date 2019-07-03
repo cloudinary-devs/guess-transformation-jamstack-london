@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Transformation Challenge](README.md)
-* [Guess the Transformation](challenge-kickoff.md)
+* [Cloudinary's Guess the Transformation Challenge: JAMstackConf London 2019](README.md)
+* [Now Guess the Transformation!](challenge-kickoff.md)
 
