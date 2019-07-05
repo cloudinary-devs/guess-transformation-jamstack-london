@@ -20,9 +20,7 @@
 
 ### [https://res.cloudinary.com/demo/image/upload/w\_900,h\_600/l\_heart-eyes-emoji,g\_north\_west,w\_200,h\_200/l\_text:Arial\_150\_bold\_yellow:Puppy%20Love!,g\_south,co\_orange/dog2.jpg](https://res.cloudinary.com/demo/image/upload/w_900,h_600/l_heart-eyes-emoji,g_north_west,w_200,h_200/l_text:Arial_150_bold_yellow:Puppy%20Love!,g_south,co_orange/dog2.jpg)
 
-![](.gitbook/assets/puppy-love.jpg)
-
-![Target Image \(example\)](https://github.com/cloudinary-devs/guess-transformation-jamstack-london/tree/aea496103cbf1afa14c1bbff1d8ad25e76632bac/.gitbook/assets/composite-one%20%282%29.jpg)
+![Target Image \(example\)](.gitbook/assets/puppy-love.jpg)
 
 ### Image Transformations Docs:
 
